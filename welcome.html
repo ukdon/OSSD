@@ -28,6 +28,22 @@
         a:hover {
             text-decoration: underline;
         }
+
+        .beautiful-link {
+    text-decoration: none; /* Remove underlines */
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Add padding for better visual appearance */
+    border-radius: 5px; /* Rounded corners */
+    margin: 5px; /* Add some spacing between links */
+    display: inline-block; /* Make them inline-block so they stay on the same line */
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+    }
+
+.beautiful-link:hover {
+    background-color: #2980b9; /* Change background color on hover */
+}
+
     </style>
 </head>
 <body>
@@ -35,8 +51,9 @@
     <h1>Welcome to Our Website</h1>
     </div>
     <p>Please select an option:</p>
-    <a href="login.html">Login</a>
-     <a href="about.html">About us</a>
-    <a href="index.html">Register</a>
+    <a href="login.html" class="beautiful-link">Login</a>
+    <a href="about.html" class="beautiful-link">About us</a>
+    <a href="index.html" class="beautiful-link">Register</a>
+
 </body>
 </html>
