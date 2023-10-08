@@ -12,6 +12,12 @@ header {
     padding: 20px;
 }
 
+.button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+
 h1 {
     font-size: 36px;
 }
