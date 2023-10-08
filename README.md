@@ -21,3 +21,7 @@ AMINATU ISHAK AUDI                                NAS/STE/19/1058
 FATIMA HAMMANSEYO                                NAS/STE/19/1040
 
 ZAINAB SHEHU BUGAJE                             NAS/STE/19/1116
+
+KHALID YUSUF SAMBO                            NAS/STE/19/
+
+HARUNA YUSUF SANI                            NAS/STE/19/1111
